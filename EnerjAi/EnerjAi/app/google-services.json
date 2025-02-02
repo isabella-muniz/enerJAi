@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "207215871352",
+    "project_id": "enerjai-51741",
+    "storage_bucket": "enerjai-51741.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207215871352:android:6d38053de8a53e5fd8f48d",
+        "android_client_info": {
+          "package_name": "com.enerjai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiLdfKbBC7ULAOv2Ifnqr5GY_taD5ada0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
