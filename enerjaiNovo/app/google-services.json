@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "586051351790",
+    "project_id": "enerjai-f4cd8",
+    "storage_bucket": "enerjai-f4cd8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586051351790:android:7a72497baf2fc676476fff",
+        "android_client_info": {
+          "package_name": "garagem.ideias.enerjai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCECzfMrz5fYYuXP1Ig4NvJdLRyoVFiDPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
